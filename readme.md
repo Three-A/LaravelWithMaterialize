@@ -1,6 +1,6 @@
 How to install this project
 1. composer install
-2. Build database with nama reference from file .env or you can edit name from file .env
+2. Build database with name reference from file .env or you can edit name of your database from file .env
 3. php artisan migrate
 
 
