@@ -1,3 +1,10 @@
+How to install this project
+1. composer install
+2. Build database with nama reference from ile .env or you can edit name from file .env
+3. php artisan migrate
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
